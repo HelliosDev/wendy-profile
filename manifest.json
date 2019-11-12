@@ -1,0 +1,16 @@
+{
+    "name": "Wendy Profile App",
+    "short_name": "Wendy Profile",
+    "description": "Aplikasi yang menampilkan profile dari Wendy",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#620DC4",
+    "theme_color": "#2ED0EF",
+    "icons": [
+        {
+            "src": "img/mipmap/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
